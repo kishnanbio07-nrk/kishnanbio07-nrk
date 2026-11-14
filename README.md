@@ -3,7 +3,7 @@
 **M.Sc., M.Phil., Ph.D. | Professor (Research), Department of Biochemistry**
 Saveetha Medical College and Hospital, SIMATS, Chennai, Tamil Nadu, India
 
-[![Email](https://img.shields.io/badge/Email-nrkishnan%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kishnanbio07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kishnanbio07%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kishnanbio07@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-h--index%2026-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
 [![Scopus](https://img.shields.io/badge/Scopus-7003268499-E9711C?style=flat)](https://www.scopus.com/)
 
