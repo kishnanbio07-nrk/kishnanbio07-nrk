@@ -164,6 +164,6 @@ Profile: [Publons](https://publons.com/researcher/2496741/radhakrishnan-narayana
 
 ## Contact
 
-ðŸ“§ [nrkishnan@gmail.com](mailto:nrkishnan@gmail.com)
+ðŸ“§ [kishnanbio07@gmail.com](mailto:kishnanbio07@gmail.com)
 ðŸ“ Chennai, Tamil Nadu, India
 
